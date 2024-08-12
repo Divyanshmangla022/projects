@@ -80,14 +80,3 @@ and saving of time and help him to plan the safe journey by going cashless.
 Almost all the difficulties of manual reservation have been removed by this
 system.
 
-# BUS RESERVATION SYSTEM
-
-# OVERVIEW
-
-Bus reservation system is a project based on Monolithic architecture developed using MERN Stack. 
-As the name suggests It is a web platform which  provides hassle free solutions to search, book and print tickets online. With the bus ticket reservation system, you can schedule routes, set seat availability as well as upload an interactive seat map, and let customers select their seats.
-The project flow is made with the maximum extent to make it user friendly.
-The website launches with the homepage which contains major information about the facilities offered by the company along with the simple travel search form available at the hero section. The user simply needs to mention the arrival and departure destination along with the suitable date. 
-According to the given inputs all the available bus trips will be displayed. Moving to the next step the user will be navigated to the select seat page where with the help of interactive seat map users can select the desired seats along with the selection of boarding and drop point. For the further process, the user will be asked to provide the passenger details as well the contact details along with the complete fare breakup view provided at the bottom. The admin can add various coupons to attract more customers. The users can avail various discount coupon added by the admin and the fare breakup will be re-evaluated accordingly.
-For the payment gateway, the app is integrated with Stripe which is a payment services provider that offers free test API for gateway testing. As soon as the payment is complete, the user gets the option to print and view their ticket. 
-The cancel and  reschedule option will also be provided in the near future.
